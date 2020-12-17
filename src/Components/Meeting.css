@@ -1,0 +1,15 @@
+.meeting_title{
+    padding:20px;
+    font-size: 15px;
+}
+.meeting_content{
+    background-color: navajowhite;
+    padding:20px;
+}
+.meeting_page{
+   background-color:tomato;
+   text-align: center;
+   font:x-large 'Times New Roman', Times, serif ;
+   border: 0px solid tomato;
+   padding-left: unset;
+}

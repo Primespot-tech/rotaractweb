@@ -1,0 +1,51 @@
+.header{
+    width: 100%;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.sign_btn{
+    margin-left: auto;    
+}
+.trend{
+    background-color: tomato;
+}
+.past_events{
+    background-color: lightslategray;
+}
+p{
+    color: white;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.gallery{
+    background-color:navajowhite;
+}
+.about{
+    background-color: khaki;
+}
+.content{
+    background-color: lightseagreen;
+}
+.followus{
+    background-color: rgb(36, 219, 164);
+}
+.footer{
+    background-color:black;
+    color: white;
+}
+.contact{
+    text-align: center;
+    
+}
+h5{
+    text-align:left;
+    margin: 200px;
+}
+.newsletter{
+    display: unset;
+}
