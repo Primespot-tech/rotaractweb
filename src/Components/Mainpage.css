@@ -1,0 +1,185 @@
+.header{
+    width: 100%;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.sign_btn{
+    margin-left: auto;    
+}
+
+p{
+    /*color: white;*/
+   
+    margin: auto;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-left: 10%;
+}
+/*.gallery{
+    background-color:navajowhite;
+    
+}*/
+.about{
+    background-color: cornsilk;
+    padding: 50px;
+    display: block;
+    width: 30vw;
+    height: 27.4vw;
+}
+.content{
+    background-color: cornsilk;
+    padding :50px;
+    display: block;
+    width: 30vw;
+    height: 27.4vw;
+}
+.followus{
+    background-color: cornsilk;
+    padding: 50px;
+    display: block;
+    width: 30vw;
+    height: 27.4vw;
+}
+.footer{
+    background-color:black !important ;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 5%;
+    
+}
+.footercontact{
+    text-align: right;
+}
+.contactus{
+    text-align: center;
+    padding-top: 30px;
+}
+.h5{
+    text-align:left;
+    margin: 200px;
+}
+.newsletter{
+    display: unset;
+}
+.cardStyle{
+    display: block;
+    width: 30vw;
+    height: 30vw;
+    padding :50px;
+    padding-bottom: 20px;
+}
+.carosuel{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.trend{
+    background-color: lightslategray !important;
+    padding: 50px;  
+}
+.table{
+    display: none;
+}
+.image{
+    
+    padding: 40px;
+    padding-bottom: 20px;
+   
+}
+.footerlogo{
+    padding: 10%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.footertext{
+        background-color:black !important ;
+        font-weight: bolder;        
+}
+.map{
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 25%; 
+    width: 350px;
+    height:250px;
+    text-align: center !important;
+    
+
+}
+.contactcontent{ 
+    
+    padding: 10% !important;
+    text-align: left;
+}
+.contactmap{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 35%; 
+    width: 20 0px;
+    height:100px;
+    text-align: left !important;
+}
+
+@media screen and (max-width:500px){
+    .trend{
+        padding: 25px;
+    }
+    .logo{
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+    }
+    p{
+        /*color: white;*/
+       
+        margin: auto;
+        font-weight: bolder;
+        font-size: 15px;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .sign_btn{
+        margin-left: auto;
+        size: 10px;    
+    }
+    .cardStyle{
+        display: block;
+        width: 90vw;
+        height: 90vw;
+        padding :50px;
+        padding-bottom: 20px;
+        float: left;
+    }    
+    .column {
+        float: left;
+    }  
+    .about{
+        background-color: cornsilk;
+        padding: 50px;
+        display: block;
+        width: 90vw;
+        height: 90vw;
+    }
+    .content{
+        background-color: cornsilk;
+        padding :50px;
+        display: block;
+        width: 90vw;
+        height: 90vw;
+    }
+    .followus{
+        background-color: cornsilk;
+        padding: 50px;
+        display: block;
+        width: 90vw;
+        height: 90vw;
+    }
+    
+
+}

@@ -1,0 +1,14 @@
+.project_title{
+    padding:20px;
+}
+.project_content{
+    background-color: navajowhite;
+    padding:20px;
+}
+.project_page{
+   background-color:tomato;
+   text-align: center;
+   font:x-large 'Times New Roman', Times, serif ;
+   border: 5px solid tomato;
+   padding-left: unset;
+}
